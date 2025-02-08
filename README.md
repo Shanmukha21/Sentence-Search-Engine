@@ -65,7 +65,7 @@ where:
 ## Installation & Setup
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/sentence-search-engine.git
+git clone https://github.com/Shanmukha21/sentence-search-engine.git
 cd sentence-search-engine
 ```
 
