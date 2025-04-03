@@ -99,7 +99,7 @@ streamlit run app.py
 ---
 
 ## Author
-**[Your Name]**
+**Shanmukha**
 
 ### **GitHub Repository**
-[https://github.com/yourusername/sentence-search-engine](https://github.com/yourusername/sentence-search-engine)
+[https://github.com/Shanmukha21/sentence-search-engine](https://github.com/Shanmukha21/sentence-search-engine)
